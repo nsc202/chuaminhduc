@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://chuaminhduc.com/sitemap.xml
